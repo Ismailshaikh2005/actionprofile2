@@ -25,4 +25,4 @@ jobs:
         run: mvn test  
 
       - name: Maven checkstlye
-        run: mvn checkstyle:checkstlye  
+        run: mvn checkstyle:checkstyle  
